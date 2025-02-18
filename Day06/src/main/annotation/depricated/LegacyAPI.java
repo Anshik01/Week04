@@ -1,4 +1,4 @@
-package depricated;
+package annotation.depricated;
 
 public class LegacyAPI {
     @Deprecated

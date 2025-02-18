@@ -1,4 +1,4 @@
-package suppresswarning;
+package annotation.suppresswarning;
 
 import java.util.ArrayList;
 import java.util.List;
